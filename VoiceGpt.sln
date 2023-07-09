@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceGpt.App", "VoiceGpt.App\VoiceGpt.App.csproj", "{E9B0F08C-1E73-4DF2-96B4-1929504107DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceGpt.Core", "VoiceGpt.Core\VoiceGpt.Core.csproj", "{F0122D77-3099-4E3B-82BC-FCAB21FEC5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B0F08C-1E73-4DF2-96B4-1929504107DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B0F08C-1E73-4DF2-96B4-1929504107DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B0F08C-1E73-4DF2-96B4-1929504107DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B0F08C-1E73-4DF2-96B4-1929504107DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0122D77-3099-4E3B-82BC-FCAB21FEC5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0122D77-3099-4E3B-82BC-FCAB21FEC5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0122D77-3099-4E3B-82BC-FCAB21FEC5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0122D77-3099-4E3B-82BC-FCAB21FEC5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A0842C-B148-4454-A057-ED738A05AE27}
+	EndGlobalSection
+EndGlobal

@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="SimpleGPT.Core" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\VoiceGpt.Core\VoiceGpt.Core.csproj" />
   </ItemGroup>
 

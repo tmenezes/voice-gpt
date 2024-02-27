@@ -1,4 +1,5 @@
-﻿using VoiceGpt.Core;
+﻿using SimpleGPT.Core;
+using VoiceGpt.Core;
 
 namespace Speech2Text
 {
